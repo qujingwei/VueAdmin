@@ -7,9 +7,9 @@ import VueClipboards from 'vue-clipboards';
 import { Message } from 'element-ui'
 // import 'element-ui/lib/theme-default/index.css'    // 默认主题
 // import '../static/css/theme-green/index.css';       // 浅绿色主题
-// import '../static/css/gay-pink.css';       // 基佬粉
+import '../static/css/gay-pink.css';       // 基佬粉
 // import '../static/css/theme-green/fire.css';       // 火红
-import '../static/css/theme-green/blue.css';       // 官方蓝
+// import '../static/css/theme-green/blue.css';       // 官方蓝
 import api from './api'
 import errinfo from './errinfo'
 
